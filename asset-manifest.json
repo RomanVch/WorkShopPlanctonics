@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/WorkShopPlanctonics/static/css/main.0e859784.chunk.css",
-    "main.js": "/WorkShopPlanctonics/static/js/main.2fc68ae4.chunk.js",
-    "main.js.map": "/WorkShopPlanctonics/static/js/main.2fc68ae4.chunk.js.map",
+    "main.js": "/WorkShopPlanctonics/static/js/main.fb63f7e7.chunk.js",
+    "main.js.map": "/WorkShopPlanctonics/static/js/main.fb63f7e7.chunk.js.map",
     "runtime-main.js": "/WorkShopPlanctonics/static/js/runtime-main.2d2e0a5b.js",
     "runtime-main.js.map": "/WorkShopPlanctonics/static/js/runtime-main.2d2e0a5b.js.map",
-    "static/js/2.4f9372d6.chunk.js": "/WorkShopPlanctonics/static/js/2.4f9372d6.chunk.js",
-    "static/js/2.4f9372d6.chunk.js.map": "/WorkShopPlanctonics/static/js/2.4f9372d6.chunk.js.map",
+    "static/js/2.57889e8a.chunk.js": "/WorkShopPlanctonics/static/js/2.57889e8a.chunk.js",
+    "static/js/2.57889e8a.chunk.js.map": "/WorkShopPlanctonics/static/js/2.57889e8a.chunk.js.map",
     "index.html": "/WorkShopPlanctonics/index.html",
     "static/css/main.0e859784.chunk.css.map": "/WorkShopPlanctonics/static/css/main.0e859784.chunk.css.map",
-    "static/js/2.4f9372d6.chunk.js.LICENSE.txt": "/WorkShopPlanctonics/static/js/2.4f9372d6.chunk.js.LICENSE.txt"
+    "static/js/2.57889e8a.chunk.js.LICENSE.txt": "/WorkShopPlanctonics/static/js/2.57889e8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d2e0a5b.js",
-    "static/js/2.4f9372d6.chunk.js",
+    "static/js/2.57889e8a.chunk.js",
     "static/css/main.0e859784.chunk.css",
-    "static/js/main.2fc68ae4.chunk.js"
+    "static/js/main.fb63f7e7.chunk.js"
   ]
 }
